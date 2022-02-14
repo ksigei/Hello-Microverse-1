@@ -10,7 +10,7 @@
 - CSS
 - Linters
 
-**This is an documenttation of milestone 1 on portfolio mobile version.**
+**This is an documenttation of hello-microverse project.**
 
 ## Author
 
